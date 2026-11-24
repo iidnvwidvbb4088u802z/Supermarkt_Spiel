@@ -1,9 +1,0 @@
-{
-  "name": "cartventure",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "build": "node build.mjs",
-    "test": "node test-shaders.mjs && node test-game.mjs"
-  }
-}
